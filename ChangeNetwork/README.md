@@ -1,6 +1,6 @@
 # ChangeNetwork
 
-* Legenda 
+## Legenda 
 * **ECHO** Escreve na tela
 * **ECHO OFF** Oculta informações e o código executado pelo sistema.
 * **ECHO ON** Exibe informações e o código executado pelo sistema.
@@ -14,6 +14,7 @@
 * **TIMEOUT** Aguarda um tempo "x" para prosseguir.
 * **NET USE** No exemplo abaixo o endereço "Y" (\\sjo-file...) é montado na unidade de rede "X" (X:)
 	
+> Exemplo
 ```
 @echo off 
 	MODE CON COLS=28 LINES=5
