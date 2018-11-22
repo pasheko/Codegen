@@ -11,7 +11,7 @@
 * **SIM PLUS para Windows 10:** Executa um Script para desativar e parar o serviço que impede o SIM PLUS de buscar dispositivos na rede no sistema operacional Windows 10, nas versões recentes do Windows 10 a uma parte da Cortana para de funcionar.
 * **BackupSIMNext:** Faz backup dos arquivos de registro do SIMNext, para analisar algum "problema" ocorrido 
 * **CodeGen QR:** Permite gerar um QR Code a partir de um conteúdo (Text ou URL)
-* **TurnNetwork:** Faz a troca de um adaptador de rede, quando é usado duas ou mais rede, mais informações no diretório do Batch
+* **ChangeNetwork:** Faz a troca de um adaptador de rede, quando é usado duas ou mais rede, mais informações no diretório do Batch
 
 #### HTML/JS/CSS
 * **CodeGen QR+:** Versão em html do _"CodeGen QR"_
