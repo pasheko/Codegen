@@ -1,18 +1,18 @@
 # ChangeNetwork
 
 ## Legenda 
-* **ECHO** Escreve na tela
-* **ECHO OFF** Oculta informações e o código executado pelo sistema.
-* **ECHO ON** Exibe informações e o código executado pelo sistema.
-* **ECHO.** Salta uma linha.
-* **@ECHO** Faz com que o prompt fique oculto durante toda execução.
-* **MODE CON COLS=Y LINES=X** Altera o modo de exibição do _"Prompt"_ na quantidade de colunas e linhas.
-* **COLOR** Altera as cores do plano de fundo e texto do prompt
-* **NETSH INTERFACE SET** Define parâmetros da interface de rede
-**  netsh interface set interface "<nome da interface>" Disabled : Desabilta a interface declarada
-**  netsh interface set interface "<nome da interface>" Enabled  : habilita a interface declarada
+* **ECHO** Escreve na tela;
+* **ECHO OFF** Oculta informações e o código executado pelo sistema;
+* **ECHO ON** Exibe informações e o código executado pelo sistema;
+* **ECHO.** Salta uma linha;
+* **@ECHO** Faz com que o prompt fique oculto durante toda execução;
+* **MODE CON COLS=Y LINES=X** Altera o modo de exibição do _"Prompt"_ na quantidade de colunas e linhas;
+* **COLOR** Altera as cores do plano de fundo e texto do prompt;
 * **TIMEOUT** Aguarda um tempo "x" para prosseguir.
 * **NET USE** No exemplo abaixo o endereço "Y" (\\sjo-file...) é montado na unidade de rede "X" (X:)
+* **NETSH INTERFACE SET** Define parâmetros da interface de rede;
+	* ```netsh interface set interface "<nome da interface>" Disabled```Desabilta a interface declarada
+	* ```netsh interface set interface "<nome da interface>" Enabled``` Habilita a interface declarada
 	
 > Exemplo
 ```
