@@ -19,4 +19,4 @@
   * [SourceCode](https://github.com/pasheko/pasheko.github.io "Source") Acesso ao repositório do Codigo Fonte.
   * [CodeGen QR+](http://pasheko.github.io "CodeGen QR+ - Pasheko") Acesso a página html com o serviço funcionando.
 
-> Em Atualização :coffee: 
+> Em Atualização!
