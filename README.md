@@ -1,5 +1,3 @@
-### Repositório de arquivos
-
 #### Batch
 * **Acesso Web Intelbras:** Abre o acesso web de um dispositivo via Internet Explorer, basta digitar o endereço de IP e porta HTTP assim que solicitar
 * **Acesso Web:** Abre automaticamente o acesso web de um dispositivo via Internet explorer, necessário editar o script
