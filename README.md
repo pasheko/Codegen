@@ -12,6 +12,7 @@
 * **BackupSIMNext:** Faz backup dos arquivos de registro do SIMNext, para analisar algum "problema" ocorrido 
 * **CodeGen QR:** Permite gerar um QR Code a partir de um conteúdo (Text ou URL)
 * **ChangeNetwork:** Faz a troca de um adaptador de rede, quando é usado duas ou mais rede, mais informações no diretório do Batch
+* **DVRDebug* Script que auxiliar na verificação do status do modo debug e habilitar/desabilitar o modo debug
 
 #### HTML/JS/CSS
 * **CodeGen QR+:** Versão em html do _"CodeGen QR"_
