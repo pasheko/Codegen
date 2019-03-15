@@ -20,3 +20,4 @@
   * [CodeGen QR+](http://pasheko.github.io "CodeGen QR+ - Pasheko") Acesso a página html com o serviço funcionando.
 
 > Em Atulização. 
+ 
