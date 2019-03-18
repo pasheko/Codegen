@@ -7,7 +7,7 @@
 - [**CodeGen QR:**](https://github.com/pasheko/PashekoDrive/tree/master/CodeGen%20QR%2B "Source") Permite gerar um QR Code a partir de um conteúdo (Text ou URL);
 - [**ChangeNetwork:**](https://github.com/pasheko/PashekoDrive/tree/master/ChangeNetwork "Source") Faz a troca de um adaptador de rede, quando é usado duas ou mais rede, mais informações no diretório do Batch.
 
-- [**DVRDebug*](https://github.com/pasheko/PashekoDrive/blob/master/Old/debug.bat "Source") Script que auxiliar na verificação do status do modo debug e habilitar/desabilitar o modo debug
+- [**DVRDebug**](https://github.com/pasheko/PashekoDrive/blob/master/Old/debug.bat "Source") Script que auxiliar na verificação do status do modo debug e habilitar/desabilitar o modo debug
 
 =======
 
